@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="de.dotwee.backgroundvideoservice.library">
+
+    <application
+            android:label="Background Video Service"
+            android:allowBackup="true"
+            android:supportsRtl="true">
+
+    </application>
+
+</manifest>
